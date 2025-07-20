@@ -18,3 +18,11 @@ which consists of predicting SIM reconstruction images with a pre-trained networ
 (DFCAN) and convolving this image with a prior knowledge-based sinusoidal pattern
 to simulate moir´e fringes for training the final denoising module, as proposed by Qiao
 et al., 2022.
+
+
+
+# Master's Thesis
+
+## AI-based Reconstruction and Denoising for Robust Structured Illumination Microscopy at Low Signal-to-Noise Ratios
+
+[![Read Thesis](https://img.shields.io/badge/PDF-Read%20Thesis-red?style=for-the-badge&logo=adobeacrobatreader)](AI-based%20Reconstruction%20and%20Denoising%20for%20Robust%20Structured%20Illumination%20Microscopy%20at%20Low%20Signal-to-Noise%20Ratios.pdf)
